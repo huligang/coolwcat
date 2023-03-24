@@ -7,29 +7,29 @@
     "DefaultHeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/Header.jpg",
     "RepositoryContents": [
         {
-          "Name": "coolwcat-test",
-          "Description": "coolwcat-Description",
+          "Name": "ls ui ios15",
+          "Description": "Suitable for iOS15 system devices",
           "Author": {
               "Label": "coolwcat",
               "Links": [
                   {
                       "Label": "coolwcat",
-                      "Link": "https://twitter.com/ChromiumCandy"
+                      "Link": "https://twitter.com/coolwcat"
                   }
               ]
           },
-          "Icon": null,
+          "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui15.png",
           "Category": null,
-          "Caption": " ",
-          "Screenshot": null,
+          "Caption": "Suitable for iOS15 system devices",
+          "Screenshot": "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/lsui15.png",
           "Releases": [
               {
                   "Version": "0.1",
-                  "Package": "",
-                  "Description": null
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.LS%20UI%20iOS15.misaka",
+                  "Description": "Suitable for iOS15 system devices"
               }
           ],
-          "PackageID": "com.coolwcat.test"
+          "PackageID": "com.coolwcat.lsui15"
       }
     ]
 }
