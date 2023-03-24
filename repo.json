@@ -7,29 +7,32 @@
     "DefaultHeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/Header.jpg",
     "RepositoryContents": [
         {
-          "Name": "coolwcat-test",
-          "Description": "coolwcat-Description",
-          "Author": {
-              "Label": "coolwcat",
-              "Links": [
-                  {
-                      "Label": "coolwcat",
-                      "Link": "https://twitter.com/ChromiumCandy"
-                  }
-              ]
-          },
-          "Icon": null,
-          "Category": null,
-          "Caption": " ",
-          "Screenshot": null,
-          "Releases": [
+            "Name": "LS UI iOS15",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "coolwcat",
+                "Links": [
+                    {
+                        "Label": "coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui15.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/Header.jpg",
+            "Category": "LS UI",
+            "Caption": "Change camera and flash icon",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/lsui15.png"
+            ],
+			"Releases": [
               {
-                  "Version": "0.1",
-                  "Package": "",
-                  "Description": null
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.LS UI iOS15.misaka",
+                  "Description": "Change camera and flash icon"
               }
-          ],
-          "PackageID": "com.coolwcat.test"
-      }
+            ],
+            "PackageID": "com.coolwcat.lsui15"
+        }
     ]
 }
