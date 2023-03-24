@@ -28,7 +28,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.LS UI iOS15.misaka",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.LSUIiOS15.misaka",
                   "Description": "Change camera and flash icon"
               }
             ],
