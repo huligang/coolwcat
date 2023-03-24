@@ -14,7 +14,7 @@
               "Links": [
                   {
                       "Label": "coolwcat",
-                      "Link": "https://twitter.com/coolwcat"
+                      "Link": "https://twitter.com/coolwcat",
                   }
               ]
           },
@@ -26,7 +26,7 @@
               {
                   "Version": "0.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.LS%20UI%20iOS15.misaka",
-                  "Description": "Suitable for iOS15 system devices"
+                  "Description": "Suitable for iOS15 system devices",
               }
           ],
           "PackageID": "com.coolwcat.lsui15"
