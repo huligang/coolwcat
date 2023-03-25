@@ -4,7 +4,7 @@
     "RepositoryAuthor": "coolwcat",
     "RepositoryIcon": "https://github.com/huligang/coolwcat/raw/main/images/logo/logo.png",
     "RepositoryWebsite": "https://github.com/huligang/coolwcat",
-    "DefaultHeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/Header.jpg",
+    "DefaultHeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
     "RepositoryContents": [
         {
             "Name": "LS UI iOS15",
@@ -19,7 +19,7 @@
                 ]
             },
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui15.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/Header.jpg",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header.png",
             "Category": "LS UI",
             "Caption": "Change camera and flash icon",
             "Screenshot": [
@@ -48,7 +48,7 @@
                 ]
             },
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui15.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/Header.jpg",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header.png",
             "Category": "Cellular",
             "Caption": "Change 4-5G→6-9G",
             "Screenshot": [
