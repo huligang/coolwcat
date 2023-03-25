@@ -2,9 +2,9 @@
     "RepositoryName": "coolwcat",
     "RepositoryDescription": "coolwcat repo",
     "RepositoryAuthor": "coolwcat",
-    "RepositoryIcon": "https://github.com/huligang/coolwcat/raw/main/images/logo.png",
+    "RepositoryIcon": "https://github.com/huligang/coolwcat/raw/main/images/logo/logo.png",
     "RepositoryWebsite": "https://github.com/huligang/coolwcat",
-    "DefaultHeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/Header.jpg",
+    "DefaultHeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/Header.jpg",
     "RepositoryContents": [
         {
             "Name": "LS UI iOS15",
@@ -28,7 +28,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.LS UI iOS15.misaka",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.lsuiios15.misaka",
                   "Description": "Change camera and flash icon"
               }
             ],
