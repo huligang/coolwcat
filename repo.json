@@ -33,6 +33,35 @@
               }
             ],
             "PackageID": "com.coolwcat.lsui15"
+        },
+
+{
+            "Name": "4-5G→6-9G",
+            "Description": "Change 4-5G→6-9G",
+            "Author": {
+                "Label": "coolwcat",
+                "Links": [
+                    {
+                        "Label": "coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui15.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/Header.jpg",
+            "Category": "Cellular",
+            "Caption": "Change 4-5G→6-9G",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/lsui15.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g.misaka",
+                  "Description": "Change 4-5G→6-9G"
+              }
+            ],
+            "PackageID": "com.coolwcat.4-5g-6-9g"
         }
     ]
 }
