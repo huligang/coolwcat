@@ -8,7 +8,7 @@
     "RepositoryContents": [
         {
             "Name": "LS UI iOS15",
-            "Description": "iOS 15 Change camera and flash icon",
+            "Description": "iOS 15 Change camera and flash icon</br>修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -21,7 +21,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui15.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "LS UI",
-            "Caption": "iOS 15 Change camera and flash icon",
+            "Caption": "iOS 15 Change camera and flash icon</br>修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/lsui15.png"
             ],
@@ -29,7 +29,7 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.lsuiios15.misaka",
-                  "Description": "iOS 15 Change camera and flash icon"
+                  "Description": "iOS 15 Change camera and flash icon</br>修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。"
               }
             ],
             "PackageID": "com.coolwcat.lsui15"
@@ -37,7 +37,7 @@
 
 {
             "Name": "4-5G→6-9G",
-            "Description": "iOS 15 Change 4-5G→6-9G",
+            "Description": "iOS 15 Change 4-5G→6-9G </br>修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -50,7 +50,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/4-5-6-9g.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Cellular",
-            "Caption": "iOS 15 Change 4-5G→6-9G",
+            "Caption": "iOS 15 Change 4-5G→6-9G </br>修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
             "Screenshot": [
 		"https://github.com/huligang/coolwcat/raw/main/images/Screenshot/4-5-6-9g-1.png",   
                 "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/4-5-6-9g.png",
@@ -59,7 +59,7 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g.misaka",
-                  "Description": "iOS 15 Change 4-5G→6-9G"
+                  "Description": "iOS 15 Change 4-5G→6-9G </br>修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用"
               }
             ],
             "PackageID": "com.coolwcat.4-5g-6-9g"
