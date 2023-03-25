@@ -95,7 +95,7 @@
         },
 	    {
             "Name": "Apple Round Font",
-            "Description": "iOS 15 Fonts 仅在ios15设备上测试，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体",
+            "Description": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -108,15 +108,17 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Fonts",
-            "Caption": "iOS 15 Fonts 仅在ios15设备上测试，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体",
+            "Caption": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体",
             "Screenshot": [  
-                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/lsui15.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/appleroundfont-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/appleroundfont-2.png",
+
             ],
 			"Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misaka/com.coolwcat.appleroundfont.misaka",
-                  "Description": "iOS 15 Fonts 仅在ios15设备上测试，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体"
+                  "Description": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体"
               }
             ],
             "PackageID": "com.coolwcat.appleroundfont"
