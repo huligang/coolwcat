@@ -37,7 +37,7 @@
 
 {
             "Name": "4-5G→6-9G",
-            "Description": "Change 4-5G→6-9G",
+            "Description": "iOS 15 Change 4-5G→6-9G",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -47,18 +47,18 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui15.png",
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/4-5-6-9g.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/Header.jpg",
             "Category": "Cellular",
-            "Caption": "Change 4-5G→6-9G",
+            "Caption": "iOS 15 Change 4-5G→6-9G",
             "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/lsui15.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/4-5-6-9g.png"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g.misaka",
-                  "Description": "Change 4-5G→6-9G"
+                  "Description": "iOS 15 Change 4-5G→6-9G"
               }
             ],
             "PackageID": "com.coolwcat.4-5g-6-9g"
