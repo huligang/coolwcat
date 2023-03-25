@@ -36,7 +36,7 @@
         },
 
 {
-            "Name": "4-5G→6-9G",
+            "Name": "4-5G→6-9G",
             "Description": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
             "Author": {
                 "Label": "coolwcat",
