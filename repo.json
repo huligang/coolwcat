@@ -2,9 +2,9 @@
     "RepositoryName": "coolwcat",
     "RepositoryDescription": "coolwcat repo",
     "RepositoryAuthor": "coolwcat",
-    "RepositoryIcon": "https://github.com/huligang/coolwcat/raw/main/images/logo/logo.png",
+    "RepositoryIcon": "https://github.com/huligang/coolwcat/raw/main/images/logo/logo1.png",
     "RepositoryWebsite": "https://github.com/huligang/coolwcat",
-    "DefaultHeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+    "DefaultHeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
     "RepositoryContents": [
         {
             "Name": "LS UI iOS15",
@@ -18,8 +18,8 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui15.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
              "Category": "LS UI",
              "Caption": "iOS 15 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。",
              "screenshot": [
@@ -47,8 +47,8 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/4-5-6-9g.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/Cellular.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Cellular",
             "Caption": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
             "screenshot": [
@@ -76,8 +76,8 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Cellular",
             "Caption": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
             "screenshot": [
@@ -105,8 +105,8 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Fonts",
             "Caption": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体",
             "screenshot": [
@@ -134,8 +134,8 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize1.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Control Center",
             "Caption": "iOS 15 Control Center Size1 在ios15设备上测试正常使用,修改控制中心布局",
             "screenshot": [
@@ -162,8 +162,8 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize1.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Control Center",
             "Caption": "iOS 15 Control Center Size1 在ios15设备上测试正常使用,修改控制中心布局",
             "screenshot": [
