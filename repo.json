@@ -172,7 +172,7 @@
             "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.moduletransparent.misaka",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.moduletransparent.misaka",
                   "Description": null
               }
             ],
