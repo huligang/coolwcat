@@ -52,7 +52,7 @@
             "Category": "Cellular",
             "Caption": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
             "screenshot": [
-        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png",
             ],
             "Releases": [
@@ -144,7 +144,7 @@
             "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misaka/com.coolwcat.appleroundfont.misaka",
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.appleroundfont.misaka",
                   "Description": null
               }
             ],
