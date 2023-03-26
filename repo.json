@@ -149,6 +149,34 @@
               }
             ],
             "PackageID": "com.coolwcat.controlcentersize1"
+        },
+        {
+            "Name": "Module Transparent",
+            "Description": "iOS 15 Module Transparent 在ios15设备上测试正常使用,修改控制中心按钮背景透明",
+            "Author": {
+                "Label": "coolwcat",
+                "Links": [
+                    {
+                        "Label": "coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize1.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Control Center",
+            "Caption": "iOS 15 Control Center Size1 在ios15设备上测试正常使用,修改控制中心布局",
+            "screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent.png",
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.moduletransparent.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.moduletransparent"
         }
     ]
 }
