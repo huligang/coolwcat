@@ -30,7 +30,7 @@
                {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.lsuiios15.misaka",
-                  "Description": "iOS 15 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。"
+                  "Description": null
               }
             ],
             "PackageID": "com.coolwcat.lsui15"
@@ -59,7 +59,7 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g.misaka",
-                  "Description": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用"
+                  "Description": null
               }
             ],
             "PackageID": "com.coolwcat.4-5g-6-9g"
@@ -81,14 +81,14 @@
             "Category": "Cellular",
             "Caption": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
             "screenshot": [
-        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png",
             ],
             "Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.nooldernotifications.misaka",
-                  "Description": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。"
+                  "Description": null
               }
             ],
             "PackageID": "com.coolwcat.nooldernotifications"
@@ -117,7 +117,7 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misaka/com.coolwcat.appleroundfont.misaka",
-                  "Description": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体"
+                  "Description": null
               }
             ],
             "PackageID": "com.coolwcat.appleroundfont"
@@ -145,7 +145,7 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misaka/com.coolwcat.appleroundfont.misaka",
-                  "Description": "iOS 15 Control Center Size1 在ios15设备上测试正常使用,修改控制中心布局"
+                  "Description": null
               }
             ],
             "PackageID": "com.coolwcat.controlcentersize1"
