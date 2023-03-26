@@ -23,8 +23,8 @@
              "Category": "LS UI",
              "Caption": "iOS 15 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。",
              "screenshot": [
-                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png"
-                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
+                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
+                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
              ],
              "Releases": [
                {
@@ -52,8 +52,8 @@
             "Category": "Cellular",
             "Caption": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
             "screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png",
             ],
             "Releases": [
               {
@@ -81,8 +81,8 @@
             "Category": "Cellular",
             "Caption": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
             "screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png"
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png",
             ],
             "Releases": [
               {
@@ -110,8 +110,8 @@
             "Category": "Fonts",
             "Caption": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体",
             "screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png"
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png",
             ],
             "Releases": [
               {
