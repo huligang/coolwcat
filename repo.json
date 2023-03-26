@@ -167,7 +167,8 @@
             "Category": "Control Center",
             "Caption": "iOS 15 Control Center Size1 在ios15设备上测试正常使用,修改控制中心布局",
             "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent1.png"
             ],
             "Releases": [
               {
