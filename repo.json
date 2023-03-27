@@ -144,7 +144,7 @@
             "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.appleroundfont.misaka",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.appleroundfont.misaka",
                   "Description": null
               }
             ],
@@ -202,7 +202,7 @@
             "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.hiddendndcharacter.misaka",
+                  "Package": "https://github.com/huligang/coolwcat/raw/min/misaka/com.coolwcat.hiddendndcharacter.misaka",
                   "Description": null
               }
             ],
