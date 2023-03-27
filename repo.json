@@ -36,8 +36,8 @@
             "PackageID": "com.coolwcat.lsui15"
         },
         {
-            "Name": "6G&9G",
-            "Description": "iOS 15&16 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
+            "Name": "6G&9GiOS15",
+            "Description": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -58,11 +58,40 @@
             "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g.misaka",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g15.misaka",
                   "Description": null
               }
             ],
-            "PackageID": "com.coolwcat.4-5g-6-9g"
+            "PackageID": "com.coolwcat.4-5g-6-9g15"
+        } ,
+        {
+            "Name": "6G&9G iOS16",
+            "Description": "iOS 16 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS16系统设备使用",
+            "Author": {
+                "Label": "coolwcat",
+                "Links": [
+                    {
+                        "Label": "coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/Cellular.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
+            "Category": "Cellular",
+            "Caption": "iOS 16 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS16系统设备使用",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g16.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.4-5g-6-9g16"
         },
         {
             "Name": "No Older Notifications",
@@ -124,7 +153,7 @@
         },
         {
             "Name": "Control Center Size1",
-            "Description": "iOS 15 Control Center Size1 在ios15设备上测试正常使用,修改控制中心布局",
+            "Description": "iOS 15&16 Control Center Size1 在ios15&16设备上测试正常使用,修改控制中心布局",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -137,12 +166,15 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Control Center",
-            "Caption": "iOS 15 Control Center Size1 在ios15设备上测试正常使用,修改控制中心布局",
+            "Caption": "iOS 15&16 Control Center Size1 在ios15&16设备上测试正常使用,修改控制中心布局",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/controlcentersize1.png"
             ],
             "Releases": [
               {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentersize1.misaka",
+                  "Description": null
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentersize1.misaka",
                   "Description": null
