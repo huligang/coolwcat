@@ -8,7 +8,7 @@
     "RepositoryContents": [
         {
             "Name": "LS UI iOS15",
-            "Description": "iOS 15 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。",
+            "Description": "iOS 15&16 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -21,7 +21,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
              "Category": "LS UI",
-             "Caption": "iOS 15 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。",
+             "Caption": "iOS 15&16 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
              "Screenshot": [
                  "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
                  "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
@@ -37,7 +37,7 @@
         },
         {
             "Name": "6G&9G",
-            "Description": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
+            "Description": "iOS 15&16 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -95,7 +95,7 @@
         },
         {
             "Name": "Apple Round Font",
-            "Description": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体",
+            "Description": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，锁屏时间字体",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -108,7 +108,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Fonts",
-            "Caption": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，键盘字体，锁屏时间字体",
+            "Caption": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，锁屏时间字体",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
@@ -152,7 +152,7 @@
         },
         {
             "Name": "Module Transparent",
-            "Description": "iOS 15 Module Transparent 在ios15设备上测试正常使用,修改控制中心按钮背景透明",
+            "Description": "iOS 15&16 Module Transparent 在ios15&16设备上测试正常使用,修改控制中心按钮背景透明",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -165,7 +165,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Control Center",
-            "Caption": "iOS 15 Control Center Size1 在ios15设备上测试正常使用,修改控制中心布局",
+            "Caption": "iOS 15&16 Module Transparent 在ios15&16设备上测试正常使用,修改控制中心按钮背景透明",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent.png"
@@ -210,7 +210,7 @@
         } ,
         {
             "Name": "Keyboard Space",
-            "Description": "iOS 15 Keyboard Space 在ios15设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
+            "Description": "iOS 15&16 Keyboard Space 在ios15&16设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -223,7 +223,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/keyboardspace.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Keyboard",
-            "Caption": "iOS 15 Keyboard Space 在ios15设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
+            "Caption": "iOS 15&16 Keyboard Space 在ios15&16设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspaceen.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspacezh.png",
