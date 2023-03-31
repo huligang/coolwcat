@@ -333,6 +333,34 @@
               }
             ],
             "PackageID": "com.coolwcat.lock_win10"
+        },
+        {
+            "Name": "Setting ADD IMG",
+            "Description": "Setting ADD IMG 设置列表添加图片",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/setting.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Setting",
+            "Caption": "Setting ADD IMG 设置列表添加图片",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.settingaddimg"
         }
     ]
 }
