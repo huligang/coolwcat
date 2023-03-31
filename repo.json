@@ -22,6 +22,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
              "Category": "LS UI",
              "Caption": "iOS 15&16 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
+             "MinIOSVersion": "15.0",
+             "MaxIOSVersion": "16.1.2",
              "Screenshot": [
                  "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
                  "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
@@ -51,6 +53,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Cellular",
             "Caption": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
@@ -80,6 +84,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Cellular",
             "Caption": "iOS 16 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS16系统设备使用",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
@@ -109,6 +115,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Cellular",
             "Caption": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png"
@@ -138,6 +146,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Fonts",
             "Caption": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，锁屏时间字体",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
@@ -172,6 +182,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Control Center",
             "Caption": "iOS 15&16 Control Center Size1 在ios15&16设备上测试正常使用,修改控制中心布局",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/controlcentersize1.png"
             ],
@@ -205,6 +217,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Control Center",
             "Caption": "iOS 15&16 Module Transparent 在ios15&16设备上测试正常使用,修改控制中心按钮背景透明",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent.png"
@@ -234,6 +248,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Control Center",
             "Caption": "iOS 15 Hidden DND Character 在ios15设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter1.png"
@@ -263,6 +279,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Control Center",
             "Caption": "iOS 16 Hidden DND Character 在iOS16设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter1.png"
@@ -292,6 +310,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Keyboard",
             "Caption": "iOS 15&16 Keyboard Space 在ios15&16设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspaceen.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspacezh.png",
@@ -322,6 +342,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Lock",
             "Caption": "Lock Win10_white",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lock_win10_white.png"
             ],
@@ -350,6 +372,8 @@
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Setting",
             "Caption": "Setting ADD IMG 设置列表添加图片",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg.png"
             ],
