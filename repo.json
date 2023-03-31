@@ -145,13 +145,13 @@
             "Releases": [
               {
                   "Version": "1.1",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.appleroundfontios15.misaka",
-                  "Description": "iOS15专用"
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.appleroundfontios16.misaka",
+                  "Description": "iOS16专用"
               },
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.appleroundfontios16.misaka",
-                  "Description": "ios16专用"
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.appleroundfontios15.misaka",
+                  "Description": "ios15专用"
               }
             ],
             "PackageID": "com.coolwcat.appleroundfont"
