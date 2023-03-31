@@ -318,9 +318,7 @@
             "Category": "Lock",
             "Caption": "Lock Win10_white",
             "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspaceen.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspacezh.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspacezh9k.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lock.png"
             ],
             "Releases": [
               {
