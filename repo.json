@@ -289,12 +289,12 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter.misaka",
-                  "Description": null
+                  "Description": "支持iOS15-16.1.2去除专注模式文字"
               },
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter.misaka_v1.1",
-                  "Description": null
+                  "Description": "修复文件大于系统文件导致失败"
               }
             ],
             "PackageID": "com.coolwcat.hiddendndcharacter"
