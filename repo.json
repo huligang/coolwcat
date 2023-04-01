@@ -132,7 +132,7 @@
         },
         {
             "Name": "Apple Round Font",
-            "Description": "iOS 15&16 Fonts 在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，锁屏时间字体",
+            "Description": "iOS 15 install v1.0 iOS16 install v1.1 Fonts \n ios15 安装v1.0版本、iOS16安装v1.1版本，再iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -145,7 +145,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Fonts",
-            "Caption": "iOS 15&16 Fonts \n在ios15&16设备上测试正常使用，包含中文字体，英文数字字体，emoji表情，锁屏时间字体",
+            "Caption": "iOS 15 install v1.0 iOS16 install v1.1 Fonts \n ios15 安装v1.0版本、iOS16安装v1.1版本，再iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
@@ -371,7 +371,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/setting.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Setting",
-            "Caption": "Setting ADD IMG \n设置列表添加图片",
+            "Caption": "Setting ADD IMG \n设置列表添加图片，自定义内容，按住调整选择[Tweak Settings]输入自定义内容和图片地址",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
