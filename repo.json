@@ -131,8 +131,8 @@
             "PackageID": "com.coolwcat.nooldernotifications"
         },
         {
-            "Name": "Apple Round Font",
-            "Description": "iOS 15 install v1.0 iOS16 install v1.1 Fonts \n ios15 安装v1.0版本、iOS16安装v1.1版本，再iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "Name": "Apple Round Font iOS15",
+            "Description": "iOS15 Fonts \n iOS15.0-15.7设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -145,9 +145,9 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Fonts",
-            "Caption": "iOS 15 install v1.0 iOS16 install v1.1 Fonts \n ios15 安装v1.0版本、iOS16安装v1.1版本，再iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "Caption": "iOS15 Fonts \n iOS15.0-15.7设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "15.7",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
@@ -155,16 +155,47 @@
             "Releases": [
               {
                   "Version": "1.1",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.appleroundfontios16.misaka",
-                  "Description": "iOS16专用"
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.1.misaka",
+                  "Description": "add appleSymbols、Keycaps 添加盲文、键盘"
               },
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/misaka/com.coolwcat.appleroundfontios15.misaka",
-                  "Description": "ios15专用"
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.0.misaka",
+                  "Description": "ios15专用，ios16也可用但是没有锁屏时间字体"
               }
             ],
-            "PackageID": "com.coolwcat.appleroundfont"
+            "PackageID": "com.coolwcat.appleroundfontios15"
+        },
+        {
+            "Name": "Apple Round Font iOS16",
+            "Description": "iOS16 Fonts \n iOS16.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Fonts",
+            "Caption": "iOS16 Fonts \n iOS16.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios16/com.coolwcat.appleroundfontios16_v1.0.misaka",
+                  "Description": "ios16专用"
+              }
+            ],
+            "PackageID": "com.coolwcat.appleroundfontios16"
         },
         {
             "Name": "Control Center Size1",
