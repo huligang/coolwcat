@@ -293,7 +293,7 @@
               },
               {
                   "Version": "1.1",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter.misaka_v1.1.misaka",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter_v1.1.misaka",
                   "Description": "修复文件大于系统文件导致失败"
               }
             ],
