@@ -154,14 +154,14 @@
             ],
             "Releases": [
               {
-                  "Version": "1.1",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.1.misaka",
-                  "Description": "add appleSymbols、Keycaps 添加盲文、键盘"
-              },
-              {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.0.misaka",
                   "Description": "ios15专用，ios16也可用但是没有锁屏时间字体"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.1.misaka",
+                  "Description": "add appleSymbols、Keycaps 添加盲文、键盘"
               }
             ],
             "PackageID": "com.coolwcat.appleroundfontios15"
