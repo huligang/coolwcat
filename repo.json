@@ -132,7 +132,7 @@
         },
         {
             "Name": "Apple Round Font iOS15",
-            "Description": "iOS15 Fonts \n iOS15.0-15.7设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "Description": "iOS15 Fonts \n 字体大小85 字体来源微信公众号犬神志，iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -145,9 +145,9 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Fonts",
-            "Caption": "iOS15 Fonts \n iOS15.0-15.7设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "Caption": "iOS15 Fonts \n 字体大小85 字体来源微信公众号犬神志，iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
