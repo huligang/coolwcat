@@ -484,6 +484,38 @@
               }
             ],
             "PackageID": "com.coolwcat.slideuptounlockios15"
+        },
+        {
+            "Name": "Custom iPhone Model",
+            "Description": "Custom iPhone Model \n自定义手机型号",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/setting.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Settings",
+            "Caption": "Custom iPhone Model \n自定义手机型号",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/customiphonemodel_1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/customiphonemodel_2.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/customiphonemodel_3.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.customiphonemodelios15.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.customiphonemodelios15"
         }
     ]
 }
