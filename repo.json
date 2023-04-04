@@ -418,7 +418,13 @@
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg.misaka",
                   "Description": null
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg_v1.1.misaka",
+                  "Description": null
               }
+
             ],
             "PackageID": "com.coolwcat.settingaddimg"
         },
@@ -481,6 +487,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.slideuptounlockios15.misaka",
                   "Description": null
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.slideuptounlockios15_v1.1.misaka",
+                  "Description": null
               }
             ],
             "PackageID": "com.coolwcat.slideuptounlockios15"
@@ -512,6 +523,11 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.customiphonemodelios15.misaka",
+                  "Description": null
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.customiphonemodelios15_v1.1.misaka",
                   "Description": null
               }
             ],
