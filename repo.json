@@ -369,7 +369,7 @@
         } ,
         {
             "Name": "Lock Win10 white",
-            "Description": "Lock Win10_white",
+            "Description": "Win10 白色锁头",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -399,7 +399,7 @@
         },
         {
             "Name": "Setting ADD IMG",
-            "Description": "Setting ADD IMG 设置列表添加图片",
+            "Description": "设置列表添加图片",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -427,7 +427,7 @@
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg_v1.1.misaka",
-                  "Description": null
+                  "Description": "优化用户自定义菜单"
               }
 
             ],
@@ -466,7 +466,7 @@
         },
         {
             "Name": "Slide up to Unlock",
-            "Description": "Slide up to Unlock \n自定义锁屏向上滑动解锁",
+            "Description": "自定义锁屏向上滑动解锁",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -496,14 +496,14 @@
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.slideuptounlockios15_v1.1.misaka",
-                  "Description": null
+                  "Description": "添加用户自定义菜单"
               }
             ],
             "PackageID": "com.coolwcat.slideuptounlockios15"
         },
         {
             "Name": "Custom iPhone Model",
-            "Description": "Custom iPhone Model \n自定义手机型号",
+            "Description": "自定义手机型号",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -533,7 +533,7 @@
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.customiphonemodelios15_v1.1.misaka",
-                  "Description": null
+                  "Description": "增加用户自定义菜单"
               }
             ],
             "PackageID": "com.coolwcat.customiphonemodelios15"
