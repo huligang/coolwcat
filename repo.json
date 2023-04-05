@@ -166,7 +166,7 @@
               {
                   "Version": "1.2",
                   "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.2.misaka",
-                  "Description": "Remove appleSymbols、emoji 移除盲文、表情字体"
+                  "Description": "Remove Lockscreen Time、appleSymbols、emoji 移除锁屏时间、盲文、表情字体"
               }
             ],
             "PackageID": "com.coolwcat.appleroundfontios15"
