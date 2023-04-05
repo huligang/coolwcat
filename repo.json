@@ -419,9 +419,9 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_2.png"
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_1.png"
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_3.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_2.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_3.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg.png"
             ],
             "Releases": [
