@@ -6,7 +6,6 @@
     "RepositoryWebsite": "https://github.com/huligang/coolwcat",
     "DefaultHeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
     "RepositoryContents": [
-		//Lockscreen UI 锁屏按钮UI
         {
             "Name": "LS UI",
             "Description": "修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
@@ -105,7 +104,6 @@
             ],
             "PackageID": "com.coolwcat.lock_win10"
         },
-		//Cellular 数据标识类
         {
             "Name": "6G&9GiOS15",
             "Description": "修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
@@ -136,7 +134,7 @@
               }
             ],
             "PackageID": "com.coolwcat.4-5g-6-9g15"
-        } ,
+        },
         {
             "Name": "6G&9G iOS16",
             "Description": "iOS 16 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS16系统设备使用",
@@ -168,7 +166,6 @@
             ],
             "PackageID": "com.coolwcat.4-5g-6-9g16"
         },
-		//Notifications 通知中心类
         {
             "Name": "No Older Notifications",
             "Description": "去掉通知中心没有更早通知文字。",
@@ -200,7 +197,6 @@
             ],
             "PackageID": "com.coolwcat.nooldernotifications"
         },
-		// Fonts 字体类
         {
             "Name": "Apple Round Font iOS15",
             "Description": "苹果正圆字体大小85",
@@ -299,7 +295,6 @@
 		    ],
 		    "PackageID": "com.coolwcat.appleroundfont.GoogleSansen"
 		},
-		//Control Center 控制中心类
         {
             "Name": "Control Center Size1",
             "Description": "修改控制中心布局，在ios15&16设备上测试正常使用",
@@ -365,7 +360,7 @@
               }
             ],
             "PackageID": "com.coolwcat.moduletransparent"
-        } ,
+        },
         {
             "Name": "Hidden DND Character iOS15",
             "Description": "隐藏控制中心勿扰模式文字信息，在ios15设备上测试正常使用。",
@@ -401,7 +396,7 @@
               }
             ],
             "PackageID": "com.coolwcat.hiddendndcharacter"
-        } ,
+        },
         {
             "Name": "Hidden DND Character iOS16",
             "Description": "隐藏控制中心勿扰模式文字信息，在ios16设备上测试正常使用。",
@@ -433,7 +428,6 @@
             ],
             "PackageID": "com.coolwcat.hiddendndcharacterios16"
         },
-		//Keyboard 键盘分类
         {
             "Name": "Keyboard Space",
             "Description": "修改中文输入法（全键盘，九键键盘）和英文输入法，在ios15&16设备上测试正常使用。",
@@ -474,7 +468,6 @@
             ],
             "PackageID": "com.coolwcat.keyboardspace"
         },
-		//Settings 设置类
         {
             "Name": "Setting ADD IMG",
             "Description": "设置列表添加图片",
