@@ -9,7 +9,7 @@
 		//Lockscreen UI 锁屏按钮UI
         {
             "Name": "LS UI",
-            "Description": "iOS 15&16 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
+            "Description": "修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -40,7 +40,7 @@
         },
         {
             "Name": "Slide up to Unlock",
-            "Description": "Slide up to Unlock \n自定义锁屏向上滑动解锁",
+            "Description": "自定义锁屏向上滑动解锁",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -108,7 +108,7 @@
 		//Cellular 数据标识类
         {
             "Name": "6G&9GiOS15",
-            "Description": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
+            "Description": "修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -121,7 +121,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/Cellular.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Cellular",
-            "Caption": "iOS 15 Change 4-5G→6-9G \n修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
+            "Caption": "修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "15.7",
             "Screenshot": [
@@ -171,7 +171,7 @@
 		//Notifications 通知中心类
         {
             "Name": "No Older Notifications",
-            "Description": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
+            "Description": "去掉通知中心没有更早通知文字。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -203,7 +203,7 @@
 		// Fonts 字体类
         {
             "Name": "Apple Round Font iOS15",
-            "Description": "iOS15 Fonts \n 字体大小85 字体来源微信公众号犬神志，iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。",
+            "Description": "苹果正圆字体大小85",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -216,7 +216,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Fonts",
-            "Caption": "iOS15 Fonts \n 字体大小85 字体来源微信公众号犬神志，iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。",
+            "Caption": "iOS15 Fonts \n 苹果正圆字体大小85 字体来源微信公众号犬神志，iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
@@ -239,7 +239,7 @@
         },
         {
             "Name": "Apple Round Font iOS16",
-            "Description": "iOS16 Fonts \n iOS16.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "Description": "iOS16.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -270,7 +270,7 @@
         },
 		{
 		    "Name": "Apple Round + Google Sans Font",
-		    "Description": "Apple Round + Google Sans Fonts iOS16 No Lock Time",
+		    "Description": "苹果正圆(中文)+GoogleSans(英文)大小85",
 		    "Author": {
 		        "Label": "Coolwcat",
 		        "Links": [
@@ -302,7 +302,7 @@
 		//Control Center 控制中心类
         {
             "Name": "Control Center Size1",
-            "Description": "iOS 15&16 Control Center Size1 在ios15&16设备上测试正常使用,修改控制中心布局",
+            "Description": "修改控制中心布局，在ios15&16设备上测试正常使用",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -337,7 +337,7 @@
         },
         {
             "Name": "Module Transparent",
-            "Description": "iOS 15&16 Module Transparent 在ios15&16设备上测试正常使用,修改控制中心按钮背景透明",
+            "Description": "修改控制中心按钮背景透明，iOS 15&16 Module Transparent 在ios15&16设备上测试正常使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -368,7 +368,7 @@
         } ,
         {
             "Name": "Hidden DND Character iOS15",
-            "Description": "iOS 15 Hidden DND Character 在ios15设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
+            "Description": "隐藏控制中心勿扰模式文字信息，在ios15设备上测试正常使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -404,7 +404,7 @@
         } ,
         {
             "Name": "Hidden DND Character iOS16",
-            "Description": "iOS 16 Hidden DND Character 在ios16设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
+            "Description": "隐藏控制中心勿扰模式文字信息，在ios16设备上测试正常使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -436,7 +436,7 @@
 		//Keyboard 键盘分类
         {
             "Name": "Keyboard Space",
-            "Description": "iOS 15&16 Keyboard Space 在ios15&16设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
+            "Description": "修改中文输入法（全键盘，九键键盘）和英文输入法，在ios15&16设备上测试正常使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -477,7 +477,7 @@
 		//Settings 设置类
         {
             "Name": "Setting ADD IMG",
-            "Description": "Setting ADD IMG 设置列表添加图片",
+            "Description": "设置列表添加图片",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -505,7 +505,7 @@
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg_v1.1.misaka",
-                  "Description": null
+                  "Description": "增加用户自定义菜单"
               }
 
             ],
@@ -513,7 +513,7 @@
         },
         {
             "Name": "Custom iPhone Model",
-            "Description": "Custom iPhone Model \n自定义手机型号",
+            "Description": "自定义手机型号",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -543,7 +543,7 @@
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.customiphonemodelios15_v1.1.misaka",
-                  "Description": null
+                  "Description": "增加用户自定义菜单"
               }
             ],
             "PackageID": "com.coolwcat.customiphonemodelios15"
