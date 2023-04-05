@@ -357,7 +357,12 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.keyboardspace.misaka",
-                  "Description": null
+                  "Description": "修改空格键文字"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.keyboardspace_v1.1.misaka",
+                  "Description": "Add user-defined content 增加用户自定义内容"
               }
             ],
             "PackageID": "com.coolwcat.keyboardspace"
