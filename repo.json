@@ -132,7 +132,7 @@
         },
         {
             "Name": "Apple Round Font iOS15",
-            "Description": "iOS15 Fonts \n 字体大小85 字体来源微信公众号犬神志，iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。",
+            "Description": "苹果正圆 字体大小85",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -145,7 +145,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Fonts",
-            "Caption": "iOS15 Fonts \n 字体大小85 字体来源微信公众号犬神志，iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。",
+            "Caption": "iOS15 Fonts v1.0 Size85 Fonts include: Chinese, English, Lockscreen Time , emoji, appleSymbols \n iOS15 Fonts v1.1 Size85 Fonts include: Chinese, English, Lockscreen Time, emoji, appleSymbols \n iOS15 Fonts v1.2 Size85 Fonts include: Chinese, English. \n 苹果正圆字体大小85 v1.0 包含中文字体，英文、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、emoji表情字体。\n 苹果正圆字体大小85 v1.1 包含中文字体，英文、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。\n 苹果正圆字体大小85 v1.2 包含中文字体，英文。字体来源微信公众号犬神志。",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
@@ -173,7 +173,7 @@
         },
         {
             "Name": "Apple Round Font iOS16",
-            "Description": "iOS16 Fonts \n iOS16.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "Description": "苹果正圆 iOS16 包含中文字体，英文、锁屏时间、键盘、盲文、emoji表情字体。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -186,7 +186,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Fonts",
-            "Caption": "iOS16 Fonts \n iOS16.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "Caption": "Apple Round Font iOS16 Fonts include: Chinese, English, Lockscreen Time , emoji, appleSymbols \n 苹果正圆字体大小85 v1.0 包含中文字体，英文、锁屏时间、盲文、emoji表情字体，字体来源微信公众号犬神志。",
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
@@ -204,7 +204,7 @@
         },
         {
             "Name": "Control Center Size1",
-            "Description": "iOS 15&16 Control Center Size1 在ios15&16设备上测试正常使用,修改控制中心布局",
+            "Description": "修改控制中心布局，在ios15&16设备上测试正常使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -217,7 +217,7 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Control Center",
-            "Caption": "iOS 15&16 Control Center Size1 \n在ios15&16设备上测试正常使用,修改控制中心布局",
+            "Caption": "修改控制中心布局，在ios15&16设备上测试正常使用。",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
@@ -239,7 +239,7 @@
         },
         {
             "Name": "Module Transparent",
-            "Description": "iOS 15&16 Module Transparent 在ios15&16设备上测试正常使用,修改控制中心按钮背景透明",
+            "Description": "修改控制中心按钮背景透明,在ios15&16设备上测试正常使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -270,7 +270,7 @@
         } ,
         {
             "Name": "Hidden DND Character iOS15",
-            "Description": "iOS 15 Hidden DND Character 在ios15设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
+            "Description": "隐藏控制中心勿扰模式文字信息，在ios15设备上测试正常使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -306,7 +306,7 @@
         } ,
         {
             "Name": "Hidden DND Character iOS16",
-            "Description": "iOS 16 Hidden DND Character 在ios16设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
+            "Description": "隐藏控制中心勿扰模式文字信息，在ios16设备上测试正常使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -337,7 +337,7 @@
         } ,
         {
             "Name": "Keyboard Space",
-            "Description": "iOS 15&16 Keyboard Space 在ios15&16设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
+            "Description": "修改中文输入法（全键盘，九键键盘）和英文输入法，在ios15&16设备上测试正常使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
