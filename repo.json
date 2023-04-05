@@ -162,6 +162,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.1.misaka",
                   "Description": "add appleSymbols、Keycaps 添加盲文、键盘"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.2.misaka",
+                  "Description": "Remove appleSymbols、emoji 移除盲文、表情字体"
               }
             ],
             "PackageID": "com.coolwcat.appleroundfontios15"
