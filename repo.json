@@ -8,7 +8,7 @@
     "RepositoryContents": [
         {
             "Name": "LS UI",
-            "Description": "修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
+            "Description": "iOS 15&16 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -20,7 +20,7 @@
             },
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-             "Category": "Lockscreen",
+             "Category": "LS UI",
              "Caption": "iOS 15&16 Change camera and flash icon \n修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
              "MinIOSVersion": "15.0",
              "MaxIOSVersion": "16.1.2",
@@ -38,8 +38,435 @@
             "PackageID": "com.coolwcat.lsui15"
         },
         {
+            "Name": "6G&9GiOS15",
+            "Description": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/Cellular.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Cellular",
+            "Caption": "iOS 15 Change 4-5G→6-9G \n修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.4-5g-6-9g15"
+        } ,
+        {
+            "Name": "6G&9G iOS16",
+            "Description": "iOS 16 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS16系统设备使用",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/Cellular.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Cellular",
+            "Caption": "iOS 16 Change 4-5G→6-9G \n修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS16系统设备使用",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g16.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.4-5g-6-9g16"
+        },
+        {
+            "Name": "No Older Notifications",
+            "Description": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Cellular",
+            "Caption": "iOS 15 No Older Notifications \n去掉通知中心没有更早通知文字。",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.nooldernotifications.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.nooldernotifications"
+        },
+        {
+            "Name": "Apple Round Font iOS15",
+            "Description": "iOS15 Fonts \n 字体大小85 字体来源微信公众号犬神志，iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Fonts",
+            "Caption": "iOS15 Fonts \n 字体大小85 字体来源微信公众号犬神志，iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.0.misaka",
+                  "Description": "ios15专用，ios16也可用但是没有锁屏时间字体"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.1.misaka",
+                  "Description": "add appleSymbols、Keycaps 添加盲文、键盘"
+              }
+            ],
+            "PackageID": "com.coolwcat.appleroundfontios15"
+        },
+        {
+            "Name": "Apple Round Font iOS16",
+            "Description": "iOS16 Fonts \n iOS16.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Fonts",
+            "Caption": "iOS16 Fonts \n iOS16.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios16/com.coolwcat.appleroundfontios16_v1.0.misaka",
+                  "Description": "ios16专用"
+              }
+            ],
+            "PackageID": "com.coolwcat.appleroundfontios16"
+        },
+        {
+            "Name": "Control Center Size1",
+            "Description": "iOS 15&16 Control Center Size1 在ios15&16设备上测试正常使用,修改控制中心布局",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Control Center",
+            "Caption": "iOS 15&16 Control Center Size1 \n在ios15&16设备上测试正常使用,修改控制中心布局",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/controlcentersize1.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentersize1.misaka",
+                  "Description": "支持iOS15"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentersize1.1.misaka",
+                  "Description": "支持iOS16"
+              }
+            ],
+            "PackageID": "com.coolwcat.controlcentersize1"
+        },
+        {
+            "Name": "Module Transparent",
+            "Description": "iOS 15&16 Module Transparent 在ios15&16设备上测试正常使用,修改控制中心按钮背景透明",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Control Center",
+            "Caption": "iOS 15&16 Module Transparent \n在ios15&16设备上测试正常使用,修改控制中心按钮背景透明",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.moduletransparent.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.moduletransparent"
+        } ,
+        {
+            "Name": "Hidden DND Character iOS15",
+            "Description": "iOS 15 Hidden DND Character 在ios15设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Control Center",
+            "Caption": "iOS 15 Hidden DND Character \n在ios15设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter1.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter.misaka",
+                  "Description": "支持iOS15-16.1.2去除专注模式文字"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter_v1.1.misaka",
+                  "Description": "修复文件大于系统文件导致失败"
+              }
+            ],
+            "PackageID": "com.coolwcat.hiddendndcharacter"
+        } ,
+        {
+            "Name": "Hidden DND Character iOS16",
+            "Description": "iOS 16 Hidden DND Character 在ios16设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Control Center",
+            "Caption": "iOS 16 Hidden DND Character \n在iOS16设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter1.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacterios16.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.hiddendndcharacterios16"
+        } ,
+        {
+            "Name": "Keyboard Space",
+            "Description": "iOS 15&16 Keyboard Space 在ios15&16设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/keyboardspace.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Keyboard",
+            "Caption": "iOS 15&16 Keyboard Space 在ios15&16设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspaceen.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspacezh.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspacezh9k.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.keyboardspace.misaka",
+                  "Description": "修改空格键文字"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.keyboardspace_v1.1.misaka",
+                  "Description": "Add user-defined content 增加用户自定义内容"
+              }
+            ],
+            "PackageID": "com.coolwcat.keyboardspace"
+        } ,
+        {
+            "Name": "Lock Win10 white",
+            "Description": "Lock Win10_white",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lock.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Lock",
+            "Caption": "Lock Win10_white",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lock_win10_white.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.lock_win10.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.lock_win10"
+        },
+        {
+            "Name": "Setting ADD IMG",
+            "Description": "Setting ADD IMG 设置列表添加图片",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/setting.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Setting",
+            "Caption": "Setting ADD IMG \n设置列表添加图片，自定义内容，按住调整选择[Tweak Settings]输入自定义内容和图片地址",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg.misaka",
+                  "Description": null
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg_v1.1.misaka",
+                  "Description": null
+              }
+
+            ],
+            "PackageID": "com.coolwcat.settingaddimg"
+        },
+        {
+            "Name": "Apple Round + Google Sans Font",
+            "Description": "Apple Round + Google Sans Fonts iOS16 No Lock Time",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Category": "Fonts",
+            "Caption": "Apple Round + Google Sans Fonts iOS16 No Lock Time",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont%26googlesans.misaka/com.coolwcat.appleroundfont.GoogleSansen.misaka",
+                  "Description": null
+              }
+            ],
+            "PackageID": "com.coolwcat.appleroundfont.GoogleSansen"
+        },
+        {
             "Name": "Slide up to Unlock",
-            "Description": "自定义锁屏向上滑动解锁",
+            "Description": "Slide up to Unlock \n自定义锁屏向上滑动解锁",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -74,438 +501,9 @@
             ],
             "PackageID": "com.coolwcat.slideuptounlockios15"
         },
-		{
-            "Name": "Lock Win10 white",
-            "Description": "Lock Win10_white",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lock.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Lock",
-            "Caption": "Lock Win10_white",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lock_win10_white.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.lock_win10.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.lock_win10"
-        },
-        {
-            "Name": "6G&9GiOS15",
-            "Description": "修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/Cellular.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Cellular",
-            "Caption": "修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.4-5g-6-9g15"
-        },
-        {
-            "Name": "6G&9G iOS16",
-            "Description": "iOS 16 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS16系统设备使用",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/Cellular.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Cellular",
-            "Caption": "iOS 16 Change 4-5G→6-9G \n修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS16系统设备使用",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g16.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.4-5g-6-9g16"
-        },
-        {
-            "Name": "No Older Notifications",
-            "Description": "去掉通知中心没有更早通知文字。",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Notifications",
-            "Caption": "iOS 15 No Older Notifications \n去掉通知中心没有更早通知文字。",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.nooldernotifications.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.nooldernotifications"
-        },
-        {
-            "Name": "Apple Round Font iOS15",
-            "Description": "苹果正圆字体大小85",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Fonts",
-            "Caption": "iOS15 Fonts \n 苹果正圆字体大小85 字体来源微信公众号犬神志，iOS15.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.0.misaka",
-                  "Description": null
-              },
-              {
-                  "Version": "1.1",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.1.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.appleroundfontios15"
-        },
-        {
-            "Name": "Apple Round Font iOS16",
-            "Description": "iOS16.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Fonts",
-            "Caption": "iOS16 Fonts \n iOS16.0-16.1.2设备上测试正常使用，包含中文字体，英文、数字、锁屏时间、键盘、emoji表情字体。",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios16/com.coolwcat.appleroundfontios16_v1.0.misaka",
-                  "Description": "ios16专用"
-              }
-            ],
-            "PackageID": "com.coolwcat.appleroundfontios16"
-        },
-		{
-		    "Name": "Apple Round + Google Sans Font",
-		    "Description": "苹果正圆(中文)+GoogleSans(英文)大小85",
-		    "Author": {
-		        "Label": "Coolwcat",
-		        "Links": [
-		            {
-		                "Label": "Coolwcat",
-		                "Link": "https://twitter.com/coolwcat"
-		            }
-		        ]
-		    },
-		    "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/fonts1.png",
-		    "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-		    "Category": "Fonts",
-		    "Caption": "Apple Round + Google Sans Fonts iOS16 No Lock Time",
-		    "MinIOSVersion": "15.0",
-		    "MaxIOSVersion": "16.1.2",
-		    "Screenshot": [
-		        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
-		        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
-		    ],
-		    "Releases": [
-		      {
-		          "Version": "1.0",
-		          "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont%26googlesans.misaka/com.coolwcat.appleroundfont.GoogleSansen.misaka",
-		          "Description": null
-		      }
-		    ],
-		    "PackageID": "com.coolwcat.appleroundfont.GoogleSansen"
-		},
-        {
-            "Name": "Control Center Size1",
-            "Description": "修改控制中心布局，在ios15&16设备上测试正常使用",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Control Center",
-            "Caption": "iOS 15&16 Control Center Size1 \n在ios15&16设备上测试正常使用,修改控制中心布局",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/controlcentersize1.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentersize1.misaka",
-                  "Description": null
-              },
-              {
-                  "Version": "1.1",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentersize1.1.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.controlcentersize1"
-        },
-        {
-            "Name": "Module Transparent",
-            "Description": "修改控制中心按钮背景透明，iOS 15&16 Module Transparent 在ios15&16设备上测试正常使用。",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Control Center",
-            "Caption": "iOS 15&16 Module Transparent \n在ios15&16设备上测试正常使用,修改控制中心按钮背景透明",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.moduletransparent.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.moduletransparent"
-        },
-        {
-            "Name": "Hidden DND Character iOS15",
-            "Description": "隐藏控制中心勿扰模式文字信息，在ios15设备上测试正常使用。",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Control Center",
-            "Caption": "iOS 15 Hidden DND Character \n在ios15设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter1.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter.misaka",
-                  "Description": null
-              },
-              {
-                  "Version": "1.1",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter_v1.1.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.hiddendndcharacter"
-        },
-        {
-            "Name": "Hidden DND Character iOS16",
-            "Description": "隐藏控制中心勿扰模式文字信息，在ios16设备上测试正常使用。",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Control Center",
-            "Caption": "iOS 16 Hidden DND Character \n在iOS16设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter1.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacterios16.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.hiddendndcharacterios16"
-        },
-        {
-            "Name": "Keyboard Space",
-            "Description": "修改中文输入法（全键盘，九键键盘）和英文输入法，在ios15&16设备上测试正常使用。",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/keyboardspace.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Keyboard",
-            "Caption": "iOS 15&16 Keyboard Space 在ios15&16设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspace_1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspace_2.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspace_3.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspaceen.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspacezh.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspacezh9k.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.keyboardspace.misaka",
-                  "Description": null
-              },
-              {
-                  "Version": "1.1",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.keyboardspace_v1.1.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.keyboardspace"
-        },
-        {
-            "Name": "Setting ADD IMG",
-            "Description": "设置列表添加图片",
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/setting.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Settings",
-            "Caption": "Setting ADD IMG \n设置列表添加图片，自定义内容，按住调整选择[Tweak Settings]输入自定义内容和图片地址",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg.png"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg.misaka",
-                  "Description": null
-              },
-              {
-                  "Version": "1.1",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg_v1.1.misaka",
-                  "Description": null
-              }
-            ],
-            "PackageID": "com.coolwcat.settingaddimg"
-        },
         {
             "Name": "Custom iPhone Model",
-            "Description": "自定义手机型号",
+            "Description": "Custom iPhone Model \n自定义手机型号",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
