@@ -203,8 +203,8 @@
             "PackageID": "com.coolwcat.appleroundfont.GoogleSansen"
         },
         {
-            "Name": "Control Center Size1",
-            "Description": "修改控制中心布局，在ios15&16设备上测试正常使用。",
+            "Name": "Control Center Module Size",
+            "Description": "修改控制中心模块大小。",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -217,25 +217,22 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/controlcentersize.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Control Center",
-            "Caption": "修改控制中心布局，在ios15&16设备上测试正常使用。",
+            "Caption": "Control Center Module Size 修改控制中心模块大小。",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/controlcentersize1.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/controlcentermodulesize_1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/controlcentermodulesize_2.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/controlcentermodulesize_3.png"
             ],
             "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentersize1.misaka",
-                  "Description": "支持iOS15"
-              },
-              {
-                  "Version": "1.1",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentersize1.1.misaka",
-                  "Description": "支持iOS16"
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentermodulesize.misaka",
+                  "Description": "支持用户自定义控制中心模块大小"
               }
             ],
-            "PackageID": "com.coolwcat.controlcentersize1"
+            "PackageID": "com.coolwcat.controlcentermodulesize"
         },
         {
             "Name": "Module Transparent",
