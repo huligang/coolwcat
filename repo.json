@@ -136,7 +136,7 @@
               }
             ],
             "PackageID": "com.coolwcat.4-5g-6-9g15"
-        } ,
+        },
         {
             "Name": "6G&9G iOS16",
             "Description": "iOS 16 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS16系统设备使用",
