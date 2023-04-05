@@ -431,8 +431,12 @@
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg_v1.1.misaka",
                   "Description": "优化用户自定义菜单"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg_v1.1.misaka",
+                  "Description": "优化默认图片素材路径"
               }
-
             ],
             "PackageID": "com.coolwcat.settingaddimg"
         },
