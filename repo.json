@@ -349,6 +349,9 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspace_1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspace_2.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspace_3.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspaceen.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspacezh.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspacezh9k.png"
