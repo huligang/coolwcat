@@ -70,7 +70,7 @@
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.slideuptounlockios15_v1.1.misaka",
-                  "Description": "增加用户自定义菜单",
+                  "Description": "增加用户自定义菜单"
               }
             ],
             "PackageID": "com.coolwcat.slideuptounlockios15"
@@ -227,12 +227,12 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.0.misaka",
-                  "Description": "ios15专用，ios16也可用但是没有锁屏时间字体",
+                  "Description": "ios15专用，ios16也可用但是没有锁屏时间字体"
               },
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios15/com.coolwcat.appleroundfontios15_v1.1.misaka",
-                  "Description": "add appleSymbols、Keycaps 添加盲文、键盘",
+                  "Description": "add appleSymbols、Keycaps 添加盲文、键盘"
               }
             ],
             "PackageID": "com.coolwcat.appleroundfontios15"
@@ -263,7 +263,7 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios16/com.coolwcat.appleroundfontios16_v1.0.misaka",
-                  "Description": "ios16专用",
+                  "Description": "ios16专用"
               }
             ],
             "PackageID": "com.coolwcat.appleroundfontios16"
@@ -325,12 +325,12 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentersize1.misaka",
-                  "Description": "支持iOS15",
+                  "Description": "支持iOS15"
               },
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.controlcentersize1.1.misaka",
-                  "Description": "支持iOS16",
+                  "Description": "支持iOS16"
               }
             ],
             "PackageID": "com.coolwcat.controlcentersize1"
@@ -392,12 +392,12 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter.misaka",
-                  "Description": "支持iOS15-16.1.2去除专注模式文字",
+                  "Description": "支持iOS15-16.1.2去除专注模式文字"
               },
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter_v1.1.misaka",
-                  "Description": "修复文件大于系统文件导致失败",
+                  "Description": "修复文件大于系统文件导致失败"
               }
             ],
             "PackageID": "com.coolwcat.hiddendndcharacter"
@@ -464,12 +464,12 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.keyboardspace.misaka",
-                  "Description": "修改空格键文字",
+                  "Description": "修改空格键文字"
               },
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.keyboardspace_v1.1.misaka",
-                  "Description": "Add user-defined content 增加用户自定义内容",
+                  "Description": "Add user-defined content 增加用户自定义内容"
               }
             ],
             "PackageID": "com.coolwcat.keyboardspace"
@@ -505,9 +505,8 @@
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg_v1.1.misaka",
-                  "Description": "增加用户自定义菜单",
+                  "Description": "增加用户自定义菜单"
               }
-
             ],
             "PackageID": "com.coolwcat.settingaddimg"
         },
@@ -543,7 +542,7 @@
               {
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.customiphonemodelios15_v1.1.misaka",
-                  "Description": "增加用户自定义菜单",
+                  "Description": "增加用户自定义菜单"
               }
             ],
             "PackageID": "com.coolwcat.customiphonemodelios15"
