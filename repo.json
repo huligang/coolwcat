@@ -419,6 +419,9 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_2.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_1.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_3.png"
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg.png"
             ],
             "Releases": [
@@ -434,7 +437,7 @@
               },
               {
                   "Version": "1.2",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg_v1.1.misaka",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.settingaddimg_v1.2.misaka",
                   "Description": "优化默认图片素材路径"
               }
             ],
