@@ -368,6 +368,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.keyboardspace_v1.1.misaka",
                   "Description": "Add user-defined content 增加用户自定义内容"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.keyboardspace_v1.2.misaka",
+                  "Description": "修复中文输入异常"
               }
             ],
             "PackageID": "com.coolwcat.keyboardspace"
