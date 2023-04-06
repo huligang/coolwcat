@@ -534,7 +534,7 @@
         },
         {
             "Name": "Setting ADD IMG",
-            "Description": "设置列表添加图片",
+            "Description": "设置列表添加图片和隐藏设置列表图标",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -547,15 +547,16 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/setting.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
             "Category": "Setting",
-            "Caption": "Setting ADD IMG \n设置列表添加图片，自定义内容，按住调整选择[Tweak Settings]输入自定义内容和图片地址",
+            "Caption": "Setting ADD IMG And hide settings icon \n 设置列表添加图片和隐藏设置列表图标，自定义内容，按住调整选择[Tweak Settings]选择设置列表是否隐藏图标和输入自定义内容和图片地址",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_4.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_5.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_2.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_6.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_4.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_5.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_6.png"
+
             ],
             "Releases": [
               {
