@@ -54,7 +54,7 @@
             "Category": "Cellular",
             "Caption": "iOS 16 Change 4-5G→6-9G \n修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS16系统设备使用",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
@@ -116,7 +116,7 @@
             "Category": "Fonts",
             "Caption": "iOS15 Fonts v1.0 Size85 Fonts include: Chinese, English, Lockscreen Time , emoji, appleSymbols \n iOS15 Fonts v1.1 Size85 Fonts include: Chinese, English, Lockscreen Time, emoji, appleSymbols \n iOS15 Fonts v1.2 Size85 Fonts include: Chinese, English. \n 苹果正圆字体大小85 v1.0 包含中文字体，英文、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、emoji表情字体。\n 苹果正圆字体大小85 v1.1 包含中文字体，英文、锁屏时间（iOS16无锁屏时间，请安装iOS16专用版）、键盘、emoji表情字体。\n 苹果正圆字体大小85 v1.2 包含中文字体，英文。字体来源微信公众号犬神志。",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
@@ -157,7 +157,7 @@
             "Category": "Fonts",
             "Caption": "Apple Round Font iOS16 Fonts include: Chinese, English, Lockscreen Time , emoji, appleSymbols \n 苹果正圆字体大小85 v1.0 包含中文字体，英文、锁屏时间、盲文、emoji表情字体，字体来源微信公众号犬神志。",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
@@ -188,7 +188,7 @@
             "Category": "Fonts",
             "Caption": "Apple Round + Google Sans Fonts iOS16 No Lock Time",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/appleroundfont-2.png"
@@ -219,7 +219,7 @@
             "Category": "Control Center",
             "Caption": "Control Center Module Size 修改控制中心模块大小。",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/controlcentermodulesize_1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/controlcentermodulesize_2.png",
@@ -251,7 +251,7 @@
             "Category": "Control Center",
             "Caption": "iOS 15&16 Module Transparent \n在ios15&16设备上测试正常使用,修改控制中心按钮背景透明",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent.png"
@@ -291,7 +291,7 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.hiddendndcharacter.misaka",
-                  "Description": "支持iOS15-16.1.2去除专注模式文字"
+                  "Description": "支持iOS15-17.0去除专注模式文字"
               },
               {
                   "Version": "1.1",
@@ -318,7 +318,7 @@
             "Category": "Control Center",
             "Caption": "iOS 16 Hidden DND Character \n在iOS16设备上测试正常使用,隐藏控制中心勿扰模式文字信息",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/hiddendndcharacter1.png"
@@ -349,7 +349,7 @@
             "Category": "Keyboard",
             "Caption": "iOS 15&16 Keyboard Space 在ios15&16设备上测试正常使用,修改中文输入法（全键盘，九键键盘）和英文输入法",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspace_1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/keyboardspace_2.png",
@@ -394,7 +394,7 @@
              "Category": "LS UI",
              "Caption": "iOS 15&16 Change camera and flash icon \n修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
              "MinIOSVersion": "15.0",
-             "MaxIOSVersion": "16.1.2",
+             "MaxIOSVersion": "17.0",
              "Screenshot": [
                  "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
                  "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
@@ -462,7 +462,7 @@
             "Category": "Lock",
             "Caption": "Lock Win10_white",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lock_win10_white.png"
             ],
@@ -492,7 +492,7 @@
             "Category": "Lock",
             "Caption": "Lock Meta Logo White",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lock_metalogowhite_1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lock_metalogowhite_2.png"
@@ -523,7 +523,7 @@
             "Category": "Lock",
             "Caption": "Lock Meta Logo Black",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lock_metalogoblack_1.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lock_metalogoblack_2.png"
@@ -554,7 +554,7 @@
             "Category": "Setting",
             "Caption": "Setting ADD IMG And hide settings icon \n 设置列表添加图片和隐藏设置列表图标，自定义内容，按住调整选择[Tweak Settings]选择设置列表是否隐藏图标和输入自定义内容和图片地址",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_4.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/settingaddimg_5.png",
